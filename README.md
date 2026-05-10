@@ -4,6 +4,21 @@
 
 ChaosMonkey AI is a standalone AI regression testing platform for teams shipping AI-native products. It combines intentional chaos injection, Passmark natural-language browser testing, and artifact-driven reporting so regressions are caught before production.
 
+## Screenshots
+
+<img width="1164" height="720" alt="Reports Example" src="https://github.com/user-attachments/assets/9364495f-dffd-4ba2-b08c-fedfa353f355" />
+<img width="1164" height="720" alt="Failure Modes with Passmark" src="https://github.com/user-attachments/assets/83637aa2-1061-4f1b-8538-e5d883ce2960" />
+<img width="1160" height="720" alt="Success with Passmark" src="https://github.com/user-attachments/assets/ad4aad2e-cae0-4434-997d-16413b6001d1" />
+
+<img width="1721" height="1058" alt="screencapture-localhost-3000-2026-05-11-00_02_09" src="https://github.com/user-attachments/assets/85b633dd-c5c0-4e87-8577-d46a9cf2daec" />
+<img width="1721" height="1058" alt="screencapture-localhost-3000-testing-2026-05-11-00_02_19" src="https://github.com/user-attachments/assets/8784873c-d4df-450a-bb6c-4650f8287b3a" />
+<img width="1721" height="1125" alt="screencapture-localhost-3000-dashboard-2026-05-11-00_02_26" src="https://github.com/user-attachments/assets/23122558-353f-434b-bf52-dad38e61cb61" />
+<img width="1721" height="1058" alt="screencapture-localhost-3000-reports-2026-05-11-00_02_32" src="https://github.com/user-attachments/assets/ec3a4623-3645-413c-b663-59dc9a57c7f7" />
+<img width="1721" height="1058" alt="screencapture-localhost-3000-about-2026-05-11-00_02_38" src="https://github.com/user-attachments/assets/5f38888d-ebe8-4c35-93c5-f2d71ef4befa" />
+<img width="1721" height="1157" alt="screencapture-localhost-3000-dashboard-2026-05-11-00_08_05" src="https://github.com/user-attachments/assets/5b5f8cc9-f508-4408-9117-176d7d748410" />
+<img width="1721" height="1189" alt="screencapture-localhost-3000-dashboard-2026-05-11-00_10_01" src="https://github.com/user-attachments/assets/ff903ffd-bc8e-413f-ae9d-56b8d79de1b5" />
+<img width="1721" height="1189" alt="screencapture-localhost-3000-dashboard-2026-05-11-00_10_18" src="https://github.com/user-attachments/assets/ea4337b7-945f-460d-a617-519e5d25025e" />
+
 ## Why this project matters
 
 AI apps fail differently from traditional apps:
