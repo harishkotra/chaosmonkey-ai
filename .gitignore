@@ -1,0 +1,11 @@
+node_modules
+.next
+playwright-report
+test-results
+.env
+.DS_Store
+.vscode
+.idea
+*.log
+*.tsbuildinfo
+dist

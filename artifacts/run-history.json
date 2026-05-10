@@ -1,0 +1,678 @@
+{
+  "runs": [
+    {
+      "runId": "run_1778437925717",
+      "generatedAt": "2026-05-10T18:32:05.717Z",
+      "status": "passed",
+      "total": 1,
+      "passed": 0,
+      "failed": 0,
+      "timedOut": 0,
+      "tests": [
+        {
+          "id": "hybrid-cua-mode.spec-hybrid-demo-snapshot-cua-in-one-flow",
+          "name": "hybrid demo: snapshot + CUA in one flow",
+          "file": "hybrid-cua-mode.spec.ts",
+          "status": "skipped",
+          "durationMs": 102,
+          "screenshotPaths": [],
+          "videoPaths": []
+        }
+      ]
+    },
+    {
+      "runId": "run_1778437778353",
+      "generatedAt": "2026-05-10T18:29:38.353Z",
+      "status": "passed",
+      "total": 10,
+      "passed": 9,
+      "failed": 0,
+      "timedOut": 0,
+      "tests": [
+        {
+          "id": "chaos-mode.spec-chaos-modes-trigger-detectable-regressions",
+          "name": "chaos modes trigger detectable regressions",
+          "file": "chaos-mode.spec.ts",
+          "status": "passed",
+          "durationMs": 41594,
+          "screenshotPaths": [],
+          "videoPaths": []
+        },
+        {
+          "id": "empty-response-mode.spec-empty-response-break-mode-shows-missing-output-failure-signature",
+          "name": "empty response break mode shows missing output failure signature",
+          "file": "empty-response-mode.spec.ts",
+          "status": "passed",
+          "durationMs": 38001,
+          "screenshotPaths": [],
+          "videoPaths": []
+        },
+        {
+          "id": "generate-site.spec-flagship-passmark-only-ai-website-generation-regression",
+          "name": "flagship: passmark-only AI website generation regression",
+          "file": "generate-site.spec.ts",
+          "status": "passed",
+          "durationMs": 61554,
+          "screenshotPaths": [],
+          "videoPaths": []
+        },
+        {
+          "id": "golden-passmark.spec-golden-chaos-injection-reveals-visible-failure-signatures",
+          "name": "golden: chaos injection reveals visible failure signatures",
+          "file": "golden-passmark.spec.ts",
+          "status": "passed",
+          "durationMs": 67559,
+          "screenshotPaths": [],
+          "videoPaths": []
+        },
+        {
+          "id": "hallucination-mode.spec-hallucination-break-mode-surfaces-incorrect-output-signature",
+          "name": "hallucination break mode surfaces incorrect output signature",
+          "file": "hallucination-mode.spec.ts",
+          "status": "passed",
+          "durationMs": 30004,
+          "screenshotPaths": [],
+          "videoPaths": []
+        },
+        {
+          "id": "hybrid-cua-mode.spec-hybrid-demo-snapshot-cua-in-one-flow",
+          "name": "hybrid demo: snapshot + CUA in one flow",
+          "file": "hybrid-cua-mode.spec.ts",
+          "status": "skipped",
+          "durationMs": 111,
+          "screenshotPaths": [],
+          "videoPaths": []
+        },
+        {
+          "id": "latency-mode.spec-latency-break-mode-shows-delayed-inference-failure-signature",
+          "name": "latency break mode shows delayed inference failure signature",
+          "file": "latency-mode.spec.ts",
+          "status": "passed",
+          "durationMs": 21516,
+          "screenshotPaths": [],
+          "videoPaths": []
+        },
+        {
+          "id": "mobile-layout-mode.spec-mobile-layout-break-mode-exposes-viewport-regression-signature",
+          "name": "mobile layout break mode exposes viewport regression signature",
+          "file": "mobile-layout-mode.spec.ts",
+          "status": "passed",
+          "durationMs": 31370,
+          "screenshotPaths": [],
+          "videoPaths": []
+        },
+        {
+          "id": "navigation-mode.spec-navigation-break-family-surfaces-routing-risk-signature",
+          "name": "navigation break family surfaces routing-risk signature",
+          "file": "navigation-mode.spec.ts",
+          "status": "passed",
+          "durationMs": 20669,
+          "screenshotPaths": [],
+          "videoPaths": []
+        },
+        {
+          "id": "onboarding.spec-onboarding-and-dashboard-navigation",
+          "name": "onboarding and dashboard navigation",
+          "file": "onboarding.spec.ts",
+          "status": "passed",
+          "durationMs": 40899,
+          "screenshotPaths": [],
+          "videoPaths": []
+        }
+      ]
+    },
+    {
+      "runId": "run_1778437561093",
+      "generatedAt": "2026-05-10T18:26:01.093Z",
+      "status": "failed",
+      "total": 10,
+      "passed": 7,
+      "failed": 2,
+      "timedOut": 0,
+      "tests": [
+        {
+          "id": "chaos-mode.spec-chaos-modes-trigger-detectable-regressions",
+          "name": "chaos modes trigger detectable regressions",
+          "file": "chaos-mode.spec.ts",
+          "status": "passed",
+          "durationMs": 39746,
+          "screenshotPaths": [],
+          "videoPaths": []
+        },
+        {
+          "id": "empty-response-mode.spec-empty-response-break-mode-shows-missing-output-failure-signature",
+          "name": "empty response break mode shows missing output failure signature",
+          "file": "empty-response-mode.spec.ts",
+          "status": "failed",
+          "durationMs": 39880,
+          "screenshotPaths": [],
+          "videoPaths": [],
+          "errorSnippet": "StepExecutionError: \nProvider returned error\nStep: Click the Generate Website button and wait for completion."
+        },
+        {
+          "id": "generate-site.spec-flagship-passmark-only-ai-website-generation-regression",
+          "name": "flagship: passmark-only AI website generation regression",
+          "file": "generate-site.spec.ts",
+          "status": "passed",
+          "durationMs": 60993,
+          "screenshotPaths": [],
+          "videoPaths": []
+        },
+        {
+          "id": "golden-passmark.spec-golden-chaos-injection-reveals-visible-failure-signatures",
+          "name": "golden: chaos injection reveals visible failure signatures",
+          "file": "golden-passmark.spec.ts",
+          "status": "failed",
+          "durationMs": 93666,
+          "screenshotPaths": [],
+          "videoPaths": [],
+          "errorSnippet": "Error: The Results Feed shows a failed status marker, but the text of the assertion failure is related to 'wrong navigation mode', not a pricing visibility assertion. Therefore, the assertion is false.\n\n\u001b[2mexpect(\u001b[22m\u001b[31mreceived\u001b[39m\u001b[2m).\u001b[22mtoBe\u001b[2m(\u001b[2",
+          "assertionHint": "assertion failure is related to 'wrong navigation mode', not a pricing visibility assertion. Therefore, the assertion is false."
+        },
+        {
+          "id": "hallucination-mode.spec-hallucination-break-mode-surfaces-incorrect-output-signature",
+          "name": "hallucination break mode surfaces incorrect output signature",
+          "file": "hallucination-mode.spec.ts",
+          "status": "passed",
+          "durationMs": 30899,
+          "screenshotPaths": [],
+          "videoPaths": []
+        },
+        {
+          "id": "hybrid-cua-mode.spec-hybrid-demo-snapshot-cua-in-one-flow",
+          "name": "hybrid demo: snapshot + CUA in one flow",
+          "file": "hybrid-cua-mode.spec.ts",
+          "status": "skipped",
+          "durationMs": 181,
+          "screenshotPaths": [],
+          "videoPaths": []
+        },
+        {
+          "id": "latency-mode.spec-latency-break-mode-shows-delayed-inference-failure-signature",
+          "name": "latency break mode shows delayed inference failure signature",
+          "file": "latency-mode.spec.ts",
+          "status": "passed",
+          "durationMs": 24676,
+          "screenshotPaths": [],
+          "videoPaths": []
+        },
+        {
+          "id": "mobile-layout-mode.spec-mobile-layout-break-mode-exposes-viewport-regression-signature",
+          "name": "mobile layout break mode exposes viewport regression signature",
+          "file": "mobile-layout-mode.spec.ts",
+          "status": "passed",
+          "durationMs": 28987,
+          "screenshotPaths": [],
+          "videoPaths": []
+        },
+        {
+          "id": "navigation-mode.spec-navigation-break-family-surfaces-routing-risk-signature",
+          "name": "navigation break family surfaces routing-risk signature",
+          "file": "navigation-mode.spec.ts",
+          "status": "passed",
+          "durationMs": 31999,
+          "screenshotPaths": [],
+          "videoPaths": []
+        },
+        {
+          "id": "onboarding.spec-onboarding-and-dashboard-navigation",
+          "name": "onboarding and dashboard navigation",
+          "file": "onboarding.spec.ts",
+          "status": "passed",
+          "durationMs": 43451,
+          "screenshotPaths": [],
+          "videoPaths": []
+        }
+      ]
+    },
+    {
+      "runId": "run_1778436978625",
+      "generatedAt": "2026-05-10T18:16:18.625Z",
+      "status": "failed",
+      "total": 10,
+      "passed": 8,
+      "failed": 1,
+      "timedOut": 0,
+      "tests": [
+        {
+          "id": "chaos-mode.spec-chaos-modes-trigger-detectable-regressions",
+          "name": "chaos modes trigger detectable regressions",
+          "file": "chaos-mode.spec.ts",
+          "status": "passed",
+          "durationMs": 41290,
+          "screenshotPaths": [],
+          "videoPaths": []
+        },
+        {
+          "id": "empty-response-mode.spec-empty-response-break-mode-shows-missing-output-failure-signature",
+          "name": "empty response break mode shows missing output failure signature",
+          "file": "empty-response-mode.spec.ts",
+          "status": "passed",
+          "durationMs": 41232,
+          "screenshotPaths": [],
+          "videoPaths": []
+        },
+        {
+          "id": "generate-site.spec-flagship-passmark-only-ai-website-generation-regression",
+          "name": "flagship: passmark-only AI website generation regression",
+          "file": "generate-site.spec.ts",
+          "status": "passed",
+          "durationMs": 58750,
+          "screenshotPaths": [],
+          "videoPaths": []
+        },
+        {
+          "id": "golden-passmark.spec-golden-chaos-injection-reveals-visible-failure-signatures",
+          "name": "golden: chaos injection reveals visible failure signatures",
+          "file": "golden-passmark.spec.ts",
+          "status": "passed",
+          "durationMs": 69318,
+          "screenshotPaths": [],
+          "videoPaths": []
+        },
+        {
+          "id": "hallucination-mode.spec-hallucination-break-mode-surfaces-incorrect-output-signature",
+          "name": "hallucination break mode surfaces incorrect output signature",
+          "file": "hallucination-mode.spec.ts",
+          "status": "passed",
+          "durationMs": 30268,
+          "screenshotPaths": [],
+          "videoPaths": []
+        },
+        {
+          "id": "hybrid-cua-mode.spec-hybrid-demo-snapshot-cua-in-one-flow",
+          "name": "hybrid demo: snapshot + CUA in one flow",
+          "file": "hybrid-cua-mode.spec.ts",
+          "status": "skipped",
+          "durationMs": 127,
+          "screenshotPaths": [],
+          "videoPaths": []
+        },
+        {
+          "id": "latency-mode.spec-latency-break-mode-shows-delayed-inference-failure-signature",
+          "name": "latency break mode shows delayed inference failure signature",
+          "file": "latency-mode.spec.ts",
+          "status": "passed",
+          "durationMs": 21701,
+          "screenshotPaths": [],
+          "videoPaths": []
+        },
+        {
+          "id": "mobile-layout-mode.spec-mobile-layout-break-mode-exposes-viewport-regression-signature",
+          "name": "mobile layout break mode exposes viewport regression signature",
+          "file": "mobile-layout-mode.spec.ts",
+          "status": "passed",
+          "durationMs": 28028,
+          "screenshotPaths": [],
+          "videoPaths": []
+        },
+        {
+          "id": "navigation-mode.spec-navigation-break-family-surfaces-routing-risk-signature",
+          "name": "navigation break family surfaces routing-risk signature",
+          "file": "navigation-mode.spec.ts",
+          "status": "failed",
+          "durationMs": 66654,
+          "screenshotPaths": [],
+          "videoPaths": [],
+          "errorSnippet": "Error: The assertion requires verifying that the dashboard is functional specifically while a 'wrong navigation mode' is enabled. The provided screenshot and snapshot show a normal, functional testing dashboard, but there is no visual or structural evidence in",
+          "assertionHint": "assertion requires verifying that the dashboard is functional specifically while a 'wrong navigation mode' is enabled. The provided screenshot and snapshot show a normal, functional testing dashboard, but there is no visual or structural evidence indicating that any 'wrong navigation mode' is currently active. The log entries in the Observability Timeline refer to past test executions, not the current state of the application. Without evidence that the required condition (wrong navigation mode enabled) is met, the assertion cannot be confirmed as passed."
+        },
+        {
+          "id": "onboarding.spec-onboarding-and-dashboard-navigation",
+          "name": "onboarding and dashboard navigation",
+          "file": "onboarding.spec.ts",
+          "status": "passed",
+          "durationMs": 41744,
+          "screenshotPaths": [],
+          "videoPaths": []
+        }
+      ]
+    },
+    {
+      "runId": "run_1778436873721",
+      "generatedAt": "2026-05-10T18:14:33.721Z",
+      "status": "passed",
+      "total": 10,
+      "passed": 9,
+      "failed": 0,
+      "timedOut": 0,
+      "tests": [
+        {
+          "id": "chaos-mode.spec-chaos-modes-trigger-detectable-regressions",
+          "name": "chaos modes trigger detectable regressions",
+          "file": "chaos-mode.spec.ts",
+          "status": "passed",
+          "durationMs": 45636,
+          "screenshotPaths": [],
+          "videoPaths": []
+        },
+        {
+          "id": "empty-response-mode.spec-empty-response-break-mode-shows-missing-output-failure-signature",
+          "name": "empty response break mode shows missing output failure signature",
+          "file": "empty-response-mode.spec.ts",
+          "status": "passed",
+          "durationMs": 41223,
+          "screenshotPaths": [],
+          "videoPaths": []
+        },
+        {
+          "id": "generate-site.spec-flagship-passmark-only-ai-website-generation-regression",
+          "name": "flagship: passmark-only AI website generation regression",
+          "file": "generate-site.spec.ts",
+          "status": "passed",
+          "durationMs": 57761,
+          "screenshotPaths": [],
+          "videoPaths": []
+        },
+        {
+          "id": "golden-passmark.spec-golden-chaos-injection-reveals-visible-failure-signatures",
+          "name": "golden: chaos injection reveals visible failure signatures",
+          "file": "golden-passmark.spec.ts",
+          "status": "passed",
+          "durationMs": 61689,
+          "screenshotPaths": [],
+          "videoPaths": []
+        },
+        {
+          "id": "hallucination-mode.spec-hallucination-break-mode-surfaces-incorrect-output-signature",
+          "name": "hallucination break mode surfaces incorrect output signature",
+          "file": "hallucination-mode.spec.ts",
+          "status": "passed",
+          "durationMs": 28436,
+          "screenshotPaths": [],
+          "videoPaths": []
+        },
+        {
+          "id": "hybrid-cua-mode.spec-hybrid-demo-snapshot-cua-in-one-flow",
+          "name": "hybrid demo: snapshot + CUA in one flow",
+          "file": "hybrid-cua-mode.spec.ts",
+          "status": "skipped",
+          "durationMs": 175,
+          "screenshotPaths": [],
+          "videoPaths": []
+        },
+        {
+          "id": "latency-mode.spec-latency-break-mode-shows-delayed-inference-failure-signature",
+          "name": "latency break mode shows delayed inference failure signature",
+          "file": "latency-mode.spec.ts",
+          "status": "passed",
+          "durationMs": 23282,
+          "screenshotPaths": [],
+          "videoPaths": []
+        },
+        {
+          "id": "mobile-layout-mode.spec-mobile-layout-break-mode-exposes-viewport-regression-signature",
+          "name": "mobile layout break mode exposes viewport regression signature",
+          "file": "mobile-layout-mode.spec.ts",
+          "status": "passed",
+          "durationMs": 28251,
+          "screenshotPaths": [],
+          "videoPaths": []
+        },
+        {
+          "id": "navigation-mode.spec-navigation-break-family-surfaces-routing-risk-signature",
+          "name": "navigation break family surfaces routing-risk signature",
+          "file": "navigation-mode.spec.ts",
+          "status": "passed",
+          "durationMs": 44714,
+          "screenshotPaths": [],
+          "videoPaths": []
+        },
+        {
+          "id": "onboarding.spec-onboarding-and-dashboard-navigation",
+          "name": "onboarding and dashboard navigation",
+          "file": "onboarding.spec.ts",
+          "status": "passed",
+          "durationMs": 44391,
+          "screenshotPaths": [],
+          "videoPaths": []
+        }
+      ]
+    },
+    {
+      "runId": "run_1778436485525",
+      "generatedAt": "2026-05-10T18:08:05.525Z",
+      "status": "failed",
+      "total": 10,
+      "passed": 8,
+      "failed": 0,
+      "timedOut": 1,
+      "tests": [
+        {
+          "id": "chaos-mode.spec-chaos-modes-trigger-detectable-regressions",
+          "name": "chaos modes trigger detectable regressions",
+          "file": "chaos-mode.spec.ts",
+          "status": "passed",
+          "durationMs": 38940,
+          "screenshotPaths": [],
+          "videoPaths": []
+        },
+        {
+          "id": "empty-response-mode.spec-empty-response-break-mode-shows-missing-output-failure-signature",
+          "name": "empty response break mode shows missing output failure signature",
+          "file": "empty-response-mode.spec.ts",
+          "status": "passed",
+          "durationMs": 41079,
+          "screenshotPaths": [],
+          "videoPaths": []
+        },
+        {
+          "id": "generate-site.spec-flagship-passmark-only-ai-website-generation-regression",
+          "name": "flagship: passmark-only AI website generation regression",
+          "file": "generate-site.spec.ts",
+          "status": "timedOut",
+          "durationMs": 180131,
+          "screenshotPaths": [],
+          "videoPaths": [],
+          "errorSnippet": "\u001b[31mTest timeout of 180000ms exceeded.\u001b[39m"
+        },
+        {
+          "id": "golden-passmark.spec-golden-chaos-injection-reveals-visible-failure-signatures",
+          "name": "golden: chaos injection reveals visible failure signatures",
+          "file": "golden-passmark.spec.ts",
+          "status": "passed",
+          "durationMs": 69105,
+          "screenshotPaths": [],
+          "videoPaths": []
+        },
+        {
+          "id": "hallucination-mode.spec-hallucination-break-mode-surfaces-incorrect-output-signature",
+          "name": "hallucination break mode surfaces incorrect output signature",
+          "file": "hallucination-mode.spec.ts",
+          "status": "passed",
+          "durationMs": 31244,
+          "screenshotPaths": [],
+          "videoPaths": []
+        },
+        {
+          "id": "hybrid-cua-mode.spec-hybrid-demo-snapshot-cua-in-one-flow",
+          "name": "hybrid demo: snapshot + CUA in one flow",
+          "file": "hybrid-cua-mode.spec.ts",
+          "status": "skipped",
+          "durationMs": 175,
+          "screenshotPaths": [],
+          "videoPaths": []
+        },
+        {
+          "id": "latency-mode.spec-latency-break-mode-shows-delayed-inference-failure-signature",
+          "name": "latency break mode shows delayed inference failure signature",
+          "file": "latency-mode.spec.ts",
+          "status": "passed",
+          "durationMs": 22619,
+          "screenshotPaths": [],
+          "videoPaths": []
+        },
+        {
+          "id": "mobile-layout-mode.spec-mobile-layout-break-mode-exposes-viewport-regression-signature",
+          "name": "mobile layout break mode exposes viewport regression signature",
+          "file": "mobile-layout-mode.spec.ts",
+          "status": "passed",
+          "durationMs": 29162,
+          "screenshotPaths": [],
+          "videoPaths": []
+        },
+        {
+          "id": "navigation-mode.spec-navigation-break-family-surfaces-routing-risk-signature",
+          "name": "navigation break family surfaces routing-risk signature",
+          "file": "navigation-mode.spec.ts",
+          "status": "passed",
+          "durationMs": 36161,
+          "screenshotPaths": [],
+          "videoPaths": []
+        },
+        {
+          "id": "onboarding.spec-onboarding-and-dashboard-navigation",
+          "name": "onboarding and dashboard navigation",
+          "file": "onboarding.spec.ts",
+          "status": "passed",
+          "durationMs": 45774,
+          "screenshotPaths": [],
+          "videoPaths": []
+        }
+      ]
+    },
+    {
+      "runId": "run_1778436151123",
+      "generatedAt": "2026-05-10T18:02:31.123Z",
+      "status": "failed",
+      "total": 10,
+      "passed": 6,
+      "failed": 3,
+      "timedOut": 0,
+      "tests": [
+        {
+          "id": "chaos-mode.spec-chaos-modes-trigger-detectable-regressions",
+          "name": "chaos modes trigger detectable regressions",
+          "file": "chaos-mode.spec.ts",
+          "status": "failed",
+          "durationMs": 50874,
+          "screenshotPaths": [],
+          "videoPaths": [],
+          "errorSnippet": "Error: \u001b[2mexpect(\u001b[22m\u001b[31mlocator\u001b[39m\u001b[2m).\u001b[22mtoBeVisible\u001b[2m(\u001b[22m\u001b[2m)\u001b[22m failed\n\nLocator: getByText('status: failed')\nExpected: visible\nTimeout: 5000ms\nError: element(s) not found\n\nCall log:\n\u001b[2m  - Expect \"toBeVisible\" with timeout 5000ms\u001b[22m\n\u001b[2m "
+        },
+        {
+          "id": "empty-response-mode.spec-empty-response-break-mode-shows-missing-output-failure-signature",
+          "name": "empty response break mode shows missing output failure signature",
+          "file": "empty-response-mode.spec.ts",
+          "status": "passed",
+          "durationMs": 39953,
+          "screenshotPaths": [],
+          "videoPaths": []
+        },
+        {
+          "id": "generate-site.spec-flagship-passmark-only-ai-website-generation-regression",
+          "name": "flagship: passmark-only AI website generation regression",
+          "file": "generate-site.spec.ts",
+          "status": "passed",
+          "durationMs": 63588,
+          "screenshotPaths": [],
+          "videoPaths": []
+        },
+        {
+          "id": "golden-passmark.spec-golden-chaos-injection-reveals-visible-failure-signatures",
+          "name": "golden: chaos injection reveals visible failure signatures",
+          "file": "golden-passmark.spec.ts",
+          "status": "passed",
+          "durationMs": 64246,
+          "screenshotPaths": [],
+          "videoPaths": []
+        },
+        {
+          "id": "hallucination-mode.spec-hallucination-break-mode-surfaces-incorrect-output-signature",
+          "name": "hallucination break mode surfaces incorrect output signature",
+          "file": "hallucination-mode.spec.ts",
+          "status": "passed",
+          "durationMs": 34354,
+          "screenshotPaths": [],
+          "videoPaths": []
+        },
+        {
+          "id": "hybrid-cua-mode.spec-hybrid-demo-snapshot-cua-in-one-flow",
+          "name": "hybrid demo: snapshot + CUA in one flow",
+          "file": "hybrid-cua-mode.spec.ts",
+          "status": "skipped",
+          "durationMs": 126,
+          "screenshotPaths": [],
+          "videoPaths": []
+        },
+        {
+          "id": "latency-mode.spec-latency-break-mode-shows-delayed-inference-failure-signature",
+          "name": "latency break mode shows delayed inference failure signature",
+          "file": "latency-mode.spec.ts",
+          "status": "failed",
+          "durationMs": 30260,
+          "screenshotPaths": [],
+          "videoPaths": [],
+          "errorSnippet": "Error: The 'Delay AI Response' mode is currently active (pressed), but the AI confidence score is displayed as 87%, which is generally considered a high/healthy confidence level rather than an indicator of degraded reliability.\n\n\u001b[2mexpect(\u001b[22m\u001b[31mreceived\u001b["
+        },
+        {
+          "id": "mobile-layout-mode.spec-mobile-layout-break-mode-exposes-viewport-regression-signature",
+          "name": "mobile layout break mode exposes viewport regression signature",
+          "file": "mobile-layout-mode.spec.ts",
+          "status": "failed",
+          "durationMs": 35293,
+          "screenshotPaths": [],
+          "videoPaths": [],
+          "errorSnippet": "Error: \u001b[2mexpect(\u001b[22m\u001b[31mlocator\u001b[39m\u001b[2m).\u001b[22mtoBeVisible\u001b[2m(\u001b[22m\u001b[2m)\u001b[22m failed\n\nLocator: getByText(/AI confidence \\\\d+%/)\nExpected: visible\nTimeout: 5000ms\nError: element(s) not found\n\nCall log:\n\u001b[2m  - Expect \"toBeVisible\" with timeout 5000ms\u001b[22m\n"
+        },
+        {
+          "id": "navigation-mode.spec-navigation-break-family-surfaces-routing-risk-signature",
+          "name": "navigation break family surfaces routing-risk signature",
+          "file": "navigation-mode.spec.ts",
+          "status": "passed",
+          "durationMs": 37836,
+          "screenshotPaths": [],
+          "videoPaths": []
+        },
+        {
+          "id": "onboarding.spec-onboarding-and-dashboard-navigation",
+          "name": "onboarding and dashboard navigation",
+          "file": "onboarding.spec.ts",
+          "status": "passed",
+          "durationMs": 45956,
+          "screenshotPaths": [],
+          "videoPaths": []
+        }
+      ]
+    },
+    {
+      "runId": "run_1778435224842",
+      "generatedAt": "2026-05-10T17:47:04.842Z",
+      "status": "failed",
+      "total": 3,
+      "passed": 2,
+      "failed": 0,
+      "timedOut": 1,
+      "tests": [
+        {
+          "id": "chaos-mode.spec-chaos-modes-trigger-detectable-regressions",
+          "name": "chaos modes trigger detectable regressions",
+          "file": "chaos-mode.spec.ts",
+          "status": "passed",
+          "durationMs": 45531,
+          "screenshotPaths": [],
+          "videoPaths": []
+        },
+        {
+          "id": "generate-site.spec-flagship-passmark-only-ai-website-generation-regression",
+          "name": "flagship: passmark-only AI website generation regression",
+          "file": "generate-site.spec.ts",
+          "status": "timedOut",
+          "durationMs": 120263,
+          "screenshotPaths": [],
+          "videoPaths": [],
+          "errorSnippet": "\u001b[31mTest timeout of 120000ms exceeded.\u001b[39m"
+        },
+        {
+          "id": "onboarding.spec-onboarding-and-dashboard-navigation",
+          "name": "onboarding and dashboard navigation",
+          "file": "onboarding.spec.ts",
+          "status": "passed",
+          "durationMs": 42721,
+          "screenshotPaths": [],
+          "videoPaths": []
+        }
+      ]
+    }
+  ]
+}

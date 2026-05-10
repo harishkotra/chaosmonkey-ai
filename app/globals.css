@@ -1,0 +1,42 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --background: 220 25% 4%;
+  --foreground: 213 33% 96%;
+  --card: 222 30% 10%;
+  --border: 220 18% 22%;
+  --muted: 219 14% 62%;
+  --primary: 190 100% 58%;
+  --accent: 334 100% 66%;
+  --danger: 352 92% 61%;
+}
+
+* {
+  border-color: hsl(var(--border));
+}
+
+body {
+  color: hsl(var(--foreground));
+  background:
+    linear-gradient(to bottom right, rgba(4, 12, 24, 0.98), rgba(4, 6, 12, 1)),
+    hsl(var(--background));
+  min-height: 100vh;
+  font-family: "Manrope", "Satoshi", "SF Pro Display", sans-serif;
+}
+
+.bg-grid {
+  background-image:
+    linear-gradient(rgba(255, 255, 255, 0.03) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(255, 255, 255, 0.03) 1px, transparent 1px);
+  background-size: 36px 36px;
+}
+
+.glass {
+  @apply bg-white/[0.04] backdrop-blur-xl border border-white/[0.08] shadow-glass;
+}
+
+.terminal-text {
+  font-family: "JetBrains Mono", "SF Mono", monospace;
+}

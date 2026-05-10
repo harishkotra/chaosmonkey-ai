@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="700" viewBox="0 0 1200 700">
+  <rect width="1200" height="700" fill="#0b1020"/>
+  <rect x="40" y="40" width="1120" height="620" rx="20" fill="#111827" stroke="#ef4444"/>
+  <text x="80" y="120" fill="#fecaca" font-size="44" font-family="Arial" font-weight="700">Failed Run Evidence (Placeholder)</text>
+  <text x="80" y="180" fill="#fca5a5" font-size="28" font-family="Arial">Assertion: Pricing section visible -> failed</text>
+</svg>
